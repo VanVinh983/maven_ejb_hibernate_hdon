@@ -1,0 +1,9 @@
+com\vinhhy\tvan\dao\CTHDonDao.class
+com\vinhhy\tvan\entity\HDon.class
+com\vinhhy\tvan\ejblocal\CTHDonSessionBeanLocal.class
+com\vinhhy\tvan\util\HibernateUtils.class
+com\vinhhy\tvan\ejb\HDonSessionBean.class
+com\vinhhy\tvan\ejblocal\HDonSessionBeanLocal.class
+com\vinhhy\tvan\dao\HDonDao.class
+com\vinhhy\tvan\ejb\CTHDonSessionBean.class
+com\vinhhy\tvan\entity\CTHDon.class

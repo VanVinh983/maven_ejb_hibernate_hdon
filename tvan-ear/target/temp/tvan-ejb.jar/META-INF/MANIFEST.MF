@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Created-By: Maven EJB Plugin 3.1.0
+Build-Jdk-Spec: 15
+Class-Path: lib/validation-api.jar lib/ojdbc8.jar lib/hibernate-core.jar
+  lib/jboss-logging.jar lib/javassist.jar lib/byte-buddy.jar lib/antlr.j
+ ar lib/jandex.jar lib/classmate.jar lib/dom4j.jar lib/hibernate-commons
+ -annotations.jar lib/jaxb-runtime.jar lib/jakarta.xml.bind-api.jar lib/
+ txw2.jar lib/istack-commons-runtime.jar lib/jakarta.activation.jar lib/
+ hibernate-entitymanager.jar
+
